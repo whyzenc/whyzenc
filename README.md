@@ -20,13 +20,13 @@
 <a href="mailto:whenyzenica@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/gmail-deeppink?style=for-the-badge&logo=gmail&logoColor=orange" alt="Gmail Badge"  height="35" width="150" />
 </a> <br>
-<a href="https://www.tiktok.com/@_annoyzen?_t=8hxdHPLMJ6&_r=1" target="_blank">
+<a href="https://www.tiktok.com/@awznyy?_t=ZS-900Yqj8vssG&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-gren?style=for-the-badge&logo=Tiktok&logoColor=black" alt="Tiktok Badge" height="35" width="150" />
 </a> <br>
-  <a href="https://youtube.com/@ZoolineBox2952?feature=shared" target="_blank">
+  <a href="https://youtube.com/@EuphoriaBeats_?feature=shared" target="_blank">
   <img src="https://img.shields.io/badge/youtube-ffffcc?style=for-the-badge&logo=youtube&logoColor=red" alt="youtube Badge" height="35" width="150" />
 </a> <br>
-<a href="https://discordapp.com/users/824195716259905557">
+<a href="https://discordapp.com/users/1164583159044771920">
   <img src="https://img.shields.io/badge/Discord-9999ff?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge" height="35" width="150"/>
 </a> <br> <br>
 
