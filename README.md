@@ -1,24 +1,22 @@
 <img src="https://github.com/Whyzenc/Whyzenc/blob/main/pink zenca2.gif" width="2000" height="300"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Hi+There!+Welcome+to+My+Profile+👋;From+Bugs+to+Features+🐛➡️🦋;Informatics+Student+@+UNP+🎓;Lover+of+Pink+and+Design+🎀" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Hi+There!+Welcome+to+My+Profile+%F0%9F%91%8B;From+Bugs+to+Features+%F0%9F%90%9B%E2%9E%A1%EF%B8%8F%F0%9F%A6%8B;Informatics+Student+at+UNP+%F0%9F%8E%93;Lover+of+Pink+and+Design+%F0%9F%8E%80" alt="Typing SVG" />
+  </a>
 </div>
 <br>
 
-## 📌About Me✧𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🦋🌸𓍯૮₍ ´• ˕ • ₎ა🌸🧸✧ :
+## 📌About Me✧𓍢ִ໋🌷͙֒₊˚*ੈ♡⸝⸝🦋🌸𓍯૮₍ ´• ˕ • ₎ა🌸🧸✧ 
 ✧   A beginner at programming<br>
 ✧   A freshman student in Informatics Major at Universitas Negeri Padang<br>
 ✧   Interested in AI and UI/UX design<br>
 ✧   Currently learning C<br>
 ✧   Passionate about visual design and photography<br>
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <img src="https://github.com/Whyzenc/Whyzenc/blob/main/powerpuffgirl.gif" align="right" width="290">
 <img src="https://github.com/Whyzenc/Whyzenc/blob/main/ppg-flying.gif" align="right" width="220">
-
 
 ### 🌐Find Me On: <br>
 <div id="badges">
@@ -51,7 +49,8 @@
   
 | 🎀 JobSheet | 📝 Topik Materi | 🔗 Link Folder |
 | :--- | :--- | :--- |
-| **JS 1-2** | Pengantar Node.js & JS Essentials | [View Here](https://github.com/Whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%201%20-%20Pengantar%20Node.JS) |
+| **JS 1** | Pengantar Node.js | [View Here](https://github.com/Whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%201%20-%20Pengantar%20Node.JS) |
+| **JS 2** | Javascript Essentials | [View Here]( https://github.com/whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%202%20-%20JavaScript%20Essentials) |
 | **JS 3** | Module System & Arguments | [View Here](https://github.com/Whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%203%20-%20Node.js%20Module%20System%20dan%20Command%20Line%20Arguments) |
 | **JS 4** | HTTP Request & API | [View Here](https://github.com/Whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%204%20-%20HTTP%20Request%20and%20API) |
 | **JS 5** | Web Server & Express.js | [View Here](https://github.com/Whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%205%20-%20Web%20Server%20dan%20Express.js) |
@@ -60,24 +59,21 @@
 </div>
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&color=FF69B4" alt="C"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&color=FF69B4" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&color=FF69B4" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=FF69B4" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=FF69B4" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=FF69B4" alt="Figma"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=FF69B4" alt="Git"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whyzenc&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+<br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Whyzenc&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="800" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br><br>
-
-  <table align="center">
-    <tr>
-      <td>
-        <img width="450" src="https://github-readme-stats.vercel.app/api?username=Whyzenc&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-        <br><br>
-        <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Whyzenc&theme=radical&hide_border=true" />
-      </td>
-      <td>
-        <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyzenc&layout=compact&theme=radical&hide_border=true&count_private=true" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=Whyzenc&label=Profile%20Views&color=ff69b4&style=flat-square" alt="watchers" />
 </div>
