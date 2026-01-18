@@ -55,6 +55,9 @@
 | **JS 4** | HTTP Request & API | [View Here](https://github.com/Whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%204%20-%20HTTP%20Request%20and%20API) |
 | **JS 5** | Web Server & Express.js | [View Here](https://github.com/Whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%205%20-%20Web%20Server%20dan%20Express.js) |
 | **JS 6** | JSON HTTP Endpoints | [View Here](https://github.com/Whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/JobSheet%206%20-%20JSON%20HTTP%20Endpoints) |
+| **JS 7** | Version Control dan Deployment Aplikasi | [View Here](https://github.com/whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/Jobsheet%207%20-%20%20Version%20Control%20and%20App%20Deployment) |
+| **JS 8** | MongoDB dan Database Server | [View Here](https://github.com/whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/Jobsheet%208%20-%20MongoDB%20and%20Database%20Server) |
+| **JS 9** | Socket Programming | [View Here](https://github.com/whyzenc/23343022_Praktikum-Pemograman-Jaringan/tree/main/Jobsheet%209%20-%20%20Socket%20Programming) |
 
 </div>
 <br>
@@ -68,7 +71,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=FF69B4" alt="CSS3"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=FF69B4" alt="Figma"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=FF69B4" alt="Git"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whyzenc&theme=radical&hide_border=true" alt="Streak Stats" />
+  
 </div>
 <br>
 
