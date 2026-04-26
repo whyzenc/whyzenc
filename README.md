@@ -20,21 +20,36 @@
 
 ### 🌐Find Me On: <br>
 <div id="badges">
+
 <a href="https://www.instagram.com/whenyzenc_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-00ccff?style=for-the-badge&logo=instagram&logoColor=ffff00" alt="Instagram Badge" height="35" width="150"/>
-</a> <br> 
+<img src="https://img.shields.io/badge/INSTAGRAM-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="35"/>
+</a>
+ <br>
 <a href="mailto:whenyzenica@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-deeppink?style=for-the-badge&logo=gmail&logoColor=orange" alt="Gmail Badge"  height="35" width="150" />
-</a> <br>
+<img src="https://img.shields.io/badge/GMAIL-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="35"/>
+</a>
+ <br>
 <a href="https://www.tiktok.com/@awznyy?_t=ZS-900Yqj8vssG&_r=1" target="_blank">
-  <img src="https://img.shields.io/badge/tiktok-gren?style=for-the-badge&logo=Tiktok&logoColor=black" alt="Tiktok Badge" height="35" width="150" />
-</a> <br>
-  <a href="https://youtube.com/@EuphoriaBeats_?feature=shared" target="_blank">
-  <img src="https://img.shields.io/badge/youtube-ffffcc?style=for-the-badge&logo=youtube&logoColor=red" alt="youtube Badge" height="35" width="150" />
-</a> <br>
-<a href="https://discordapp.com/users/1164583159044771920">
-  <img src="https://img.shields.io/badge/Discord-9999ff?style=for-the-badge&logo=discord&logoColor=blue" alt="Discord Badge" height="35" width="150"/>
-</a> <br> <br>
+<img src="https://img.shields.io/badge/TIKTOK-ff69b4?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge" height="35"/>
+</a>
+ <br>
+<a href="https://youtube.com/@EuphoriaBeats_?feature=shared" target="_blank">
+<img src="https://img.shields.io/badge/YOUTUBE-ff69b4?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" height="35"/>
+</a>
+ <br>
+<a href="https://discordapp.com/users/1164583159044771920" target="_blank">
+<img src="https://img.shields.io/badge/DISCORD-ff69b4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" height="35"/>
+</a>
+ <br>
+<a href="https://linkedin.com/in/whenny-zenica-636397357" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="35"/>
+</a>
+ <br>
+<a href="https://lynk.id/wnyzen" target="_blank">
+<img src="https://img.shields.io/badge/LYNK-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lynk Badge" height="35"/>
+</a>
+</div>
+  <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a> 
